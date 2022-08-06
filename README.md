@@ -6,7 +6,9 @@
 
 
 ### What i learned
-[TIL](https://github.com/12OneTwo12/TIL#readme)
+
+<a href="https://github.com/12OneTwo12/TIL#readme">
+<img src="https://img.shields.io/badge/-Today%20i%20learned-blue"> 
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=jji0428)](https://solved.ac/jji0428)
 
