@@ -22,6 +22,6 @@
 </p>
 
 
-#### Connect with me
+#### My languages
 
-<img src="https://github-readme-stats.vercel.app/api?username=12OneTwo12&layout=compact&show_icons=true&theme=vue&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12OneTwo12&layout=compact&theme=vue&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12OneTwo12&layout=compact&theme=vue&hide_border=true" />
