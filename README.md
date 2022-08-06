@@ -46,7 +46,9 @@ Animation with pure CSS & P5.js <br/>
 </p>
 
 <!-- status bar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=12OneTwo12&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12OneTwo12&layout=compact&theme=vue&hide_border=true" />
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=12OneTwo12)](https://github.com/12OneTwo12/TIL#readme)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12OneTwo12&layout=compact)](https://github.com/12OneTwo12/TIL#readme)
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jji0428)](https://solved.ac/jji0428/)
