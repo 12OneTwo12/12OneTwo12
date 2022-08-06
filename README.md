@@ -51,4 +51,6 @@ Animation with pure CSS & P5.js <br/>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12OneTwo12&layout=compact)](https://github.com/12OneTwo12/TIL#readme)
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jji0428)](https://solved.ac/jji0428/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jji0428)](https://solved.ac/jji0428/) 
+  
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=jji0428&theme=warm)
