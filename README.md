@@ -22,3 +22,8 @@
 <a href="https://github.com/12OneTwo12/Today-i-learned#css"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
 <a href="https://github.com/12OneTwo12/Today-i-learned#sql"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /></a>
 </p>
+
+<p>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+</p>
