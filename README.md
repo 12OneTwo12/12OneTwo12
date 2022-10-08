@@ -27,4 +27,7 @@
 <p>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12OneTwo12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
