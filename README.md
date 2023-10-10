@@ -29,8 +29,12 @@ I’m currently learning Basic Programming skills like Java, Python and Javascri
 <p>
 <a href="https://github.com/12OneTwo12/Today-i-learned#spring"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <a href="https://github.com/12OneTwo12/Today-i-learned#spring-boot"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-Spring%20data%20JPA-green"/>
 <img src="https://img.shields.io/badge/-QueryDSL-blue"/>
 <img src="https://img.shields.io/badge/-JWT-critical"/>
