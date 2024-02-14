@@ -6,13 +6,6 @@
 I’m currently learning Basic Programming skills like Java, Python and Javascript.<br/>
 📫 How to reach me : jji042842@gmail.com <br/>
 
-### What i learned
-
-<a href="https://github.com/12OneTwo12/TIL#readme">
-<img src="https://img.shields.io/badge/-Today%20i%20learned-blue"> 
-
-[![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=jji0428)](https://solved.ac/jji0428)
-
 <hr>
     
 ### Languages
@@ -97,4 +90,5 @@ I’m currently learning Basic Programming skills like Java, Python and Javascri
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12OneTwo12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.instagram.com/j2_1l/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
+[![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=jji0428)](https://solved.ac/jji0428)
 </div>
