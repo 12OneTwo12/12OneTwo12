@@ -11,9 +11,10 @@ I’m currently learning Basic Programming skills like Java, Python and Javascri
 ### Languages
 
 <p>
-<a href="https://github.com/12OneTwo12/Today-i-learned#java"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
-<a href="https://github.com/12OneTwo12/Today-i-learned#javascript"><img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /></a>
-<a href="https://github.com/12OneTwo12/Today-i-learned#html"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F42FF?style=flat&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 </p> 
 <hr>
     
