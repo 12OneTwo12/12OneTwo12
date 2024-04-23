@@ -1,9 +1,9 @@
 <div align="center">
     
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
-#### I am Jeongil Jeong, I'm a person who is studying programming languages in :kr: Seoul, Republic of Korea 
+#### I am Jeongil Jeong, I'm a person who work as Back-end Developer in :kr: Seoul, Republic of Korea 
 
-I’m currently learning Basic Programming skills like Java, Python and Javascript.<br/>
+I’m currently learning Programming skills like Java and Kotlin.<br/>
 📫 How to reach me : jji042842@gmail.com <br/>
 
 <hr>
