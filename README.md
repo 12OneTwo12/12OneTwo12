@@ -53,7 +53,6 @@ I’m currently learning Programming skills like Java and Kotlin.<br/>
 <a href="https://github.com/12OneTwo12/Today-i-learned#sql"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <a href="https://github.com/12OneTwo12/Today-i-learned"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 <a href="https://github.com/12OneTwo12/Today-i-learned#sql"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
 
 <hr>
 
