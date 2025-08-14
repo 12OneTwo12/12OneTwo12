@@ -52,7 +52,7 @@ How to reach me : jji042842@gmail.com <br/>
 ### Database  
   
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mariadb-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 
@@ -77,6 +77,7 @@ How to reach me : jji042842@gmail.com <br/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Loki-EF7B4D?style=flat-square&logo=loki&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tempo-FF6F00?style=flat-square&logo=Tempo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Promtail-EF7B4D?style=flat-square&logo=Promtail&logoColor=white"/>
 <br>
 <br>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
